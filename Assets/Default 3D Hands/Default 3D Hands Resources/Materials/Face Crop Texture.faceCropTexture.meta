@@ -1,0 +1,14 @@
+- !<AssetImportMetadata/0887a220-8353-4252-8561-92a174379392>
+  ImportedAssetIds:
+    Texture: !<reference> 7b1bd2ab-5b7a-40ee-bdef-18b2c3b0920c
+  ImporterName: FaceCropTextureImporter
+  PrimaryAsset: !<reference> 7b1bd2ab-5b7a-40ee-bdef-18b2c3b0920c
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/f124f5d2-6667-4c47-ae24-98eb3686341a>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

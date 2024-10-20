@@ -1,0 +1,38 @@
+- !<AssetImportMetadata/54636fcc-2fe4-4a0d-834b-07fb465a255d>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 0f594776-bfe3-4af6-8aef-4a22d3dbffa2
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 0f594776-bfe3-4af6-8aef-4a22d3dbffa2
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> f608d86f-8e37-4d8c-b858-1ed47520fe0e
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/5bdbd9ce-5c16-41cb-99af-9bcb3612cb52>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/f608d86f-8e37-4d8c-b858-1ed47520fe0e>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    scarObj: false
+    tattoo1: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - scar: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      scarObj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      Tattoo1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      tattoo1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

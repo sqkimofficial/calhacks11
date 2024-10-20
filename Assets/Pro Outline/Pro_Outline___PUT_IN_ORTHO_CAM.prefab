@@ -1,0 +1,122 @@
+- !<ObjectPrefab/c2c2dc64-22f3-4655-99b7-1d684e434c2a>
+  PackagePath: ""
+  objects:
+    - !<own> e6135a3c-2d71-4509-885c-7fe68c3aad2b
+  LazyLoading: false
+  RetainAssets: true
+- !<PostEffectVisual/27ae5861-bc1d-434b-bed2-3134c7ea322f>
+  PrefabRemaps:
+    []
+  Name: Post Effect
+  Enabled: true
+  RenderOrder: 1
+  Material: !<reference> 051b6b41-9f25-405b-abaf-8470c2eabe35
+- !<PostEffectVisual/5ca52081-637a-45d7-beaa-cec501b2be14>
+  PrefabRemaps:
+    []
+  Name: Post Effect
+  Enabled: true
+  RenderOrder: 1
+  Material: !<reference> e5d59103-f799-45c9-9936-17e996f61eb2
+- !<SceneObject/6b7461a5-3ec4-46ec-b54e-4c3383aa01a8>
+  PrefabRemaps:
+    []
+  Name: Pro Outline (Stroke)
+  Enabled: false
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: -40.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a408e662-3fbd-408b-b864-71a9c0f2ba13
+    - !<own> 5ca52081-637a-45d7-beaa-cec501b2be14
+    - !<own> 27ae5861-bc1d-434b-bed2-3134c7ea322f
+- !<ScriptComponent/91207243-c94b-4909-9893-55557b5ab3a0>
+  PrefabRemaps:
+    []
+  Name: JFA
+  Enabled: true
+  ScriptAsset: !<reference> 333c8a7d-b582-4a3a-8cf3-d3f20d4052e7
+  ScriptInputsDefault:
+    advanced: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      outlineThickness: 64
+      mask: !<reference.Texture> fd63acf3-d726-46f7-9f11-ea4715ad5ca0
+      advanced: false
+      isFullScreen: true
+      customRes: !<Vec2> {x: 128.000000, y: 256.000000}
+      firstPass: !<reference.Material> 5e360431-33a6-4988-b093-fa97d8372b15
+      JFAStep: !<reference.Material> 8cbb09e1-7b2a-4541-a228-4802e11d808b
+      startingRenderOrder: -50
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/9a4c451c-f279-4a46-a434-66a5b86d28e4>
+  PrefabRemaps:
+    []
+  Name: Pro Outline (Effects)
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: -40.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ee9ca070-1c47-4668-8cc3-dd9d77ca3543
+    - !<own> 91207243-c94b-4909-9893-55557b5ab3a0
+- !<ScriptComponent/a408e662-3fbd-408b-b864-71a9c0f2ba13>
+  PrefabRemaps:
+    []
+  Name: JFA
+  Enabled: true
+  ScriptAsset: !<reference> 333c8a7d-b582-4a3a-8cf3-d3f20d4052e7
+  ScriptInputsDefault:
+    advanced: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      outlineThickness: 64
+      mask: !<reference.Texture> fd63acf3-d726-46f7-9f11-ea4715ad5ca0
+      advanced: false
+      isFullScreen: true
+      customRes: !<Vec2> {x: 128.000000, y: 256.000000}
+      firstPass: !<reference.Material> 5e360431-33a6-4988-b093-fa97d8372b15
+      JFAStep: !<reference.Material> 8cbb09e1-7b2a-4541-a228-4802e11d808b
+      startingRenderOrder: -50
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/e6135a3c-2d71-4509-885c-7fe68c3aad2b>
+  PrefabRemaps:
+    []
+  Name: Pro_Outline___PUT_IN_ORTHO_CAM
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 9a4c451c-f279-4a46-a434-66a5b86d28e4
+    - !<own> 6b7461a5-3ec4-46ec-b54e-4c3383aa01a8
+  Components:
+    []
+- !<PostEffectVisual/ee9ca070-1c47-4668-8cc3-dd9d77ca3543>
+  PrefabRemaps:
+    []
+  Name: Post Effect
+  Enabled: true
+  RenderOrder: 0
+  Material: !<reference> 92aabbd4-c229-4ebe-88b1-d796ee1deb50

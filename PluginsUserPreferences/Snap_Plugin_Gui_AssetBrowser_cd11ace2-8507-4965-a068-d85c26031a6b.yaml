@@ -1,0 +1,107 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 101
+    values:
+      - 3D Bracelets Asset Pack
+      - 3D Bracelets Asset Pack/.hidden
+      - 3D Bracelets Asset Pack/.hidden/Diamond.ss_graph
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/Pearly Gold Bracelet
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/Pearly Gold Bracelet/Materials
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/Pearly Gold Bracelet/Materials/pearly gold A.mat
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/Pearly Gold Bracelet/Materials/pearly gold B.mat
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/Pearly Gold Bracelet/Mesh
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/Pearly Gold Bracelet/Mesh/Pearly Gold Bracelet1
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/Pearly Gold Bracelet/Mesh/Pearly Gold Bracelet1/Meshes
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/Pearly Gold Bracelet/Mesh/Pearly Gold Bracelet1/Meshes/Simple Heart.mesh
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/Pearly Gold Bracelet/Mesh/Pearly Gold Bracelet1/Meshes/Sphere 2.mesh
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/Pearly Gold Bracelet/Mesh/Pearly Gold Bracelet1/Meshes/Sphere.mesh
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/Pearly Gold Bracelet/Mesh/Pearly Gold Bracelet1/Meshes/Torus 2.mesh
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/Pearly Gold Bracelet/Mesh/Pearly Gold Bracelet1/Meshes/Torus.mesh
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/Pearly Gold Bracelet/Textures
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/Pearly Gold Bracelet/Textures/pearly gold A base.png
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/Pearly Gold Bracelet/Textures/pearly gold A normal.png
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/Pearly Gold Bracelet/Textures/pearly gold A params.png
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/Pearly Gold Bracelet/Textures/pearly gold B base.png
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/Pearly Gold Bracelet/Textures/pearly gold B normal.png
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/Pearly Gold Bracelet/Textures/pearly gold B params.png
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/leonel bracelet/Materials
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/leonel bracelet/Materials/Diamond.mat
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/leonel bracelet/Materials/Gold.mat
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/leonel bracelet/Mesh
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/leonel bracelet/Mesh/3D Bracelet Asset Pack
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/leonel bracelet/Mesh/3D Bracelet Asset Pack/Meshes
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/leonel bracelet/Mesh/3D Bracelet Asset Pack/Meshes/Circle 2.mesh
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/leonel bracelet/Mesh/3D Bracelet Asset Pack/Meshes/Circle.mesh
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/leonel bracelet/Mesh/3D Bracelet Asset Pack/Textures
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/leonel bracelet/Mesh/3D Bracelet Asset Pack/Textures/Diamond base texture.jpg
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/leonel bracelet/Textures
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/leonel bracelet/Textures/Diamond normalMap texture.jpg
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/leonel bracelet/Textures/Diamond params texture.jpg
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/leonel bracelet/Textures/Gold base texture.png
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/leonel bracelet/Textures/Gold normalMap texture.png
+      - 3D Bracelets Asset Pack/3D Bracelet Asset Pack/leonel bracelet/Textures/Gold params texture.png
+      - 3D Bracelets Asset Pack/Bracelet Pack__USE_WITH_WRIST_TRACKING.prefab
+      - 3D Bracelets Asset Pack/right_hand_scar.png
+      - Base.png
+      - Black.mat
+      - Default 3D Hands
+      - Default 3D Hands/Default 3D Hands Resources/Materials/Face Crop Texture.faceCropTexture
+      - Default 3D Hands/Default 3D Hands Resources/Materials/ImageMaterial.mat
+      - Default 3D Hands/Default 3D Hands Resources/Materials/right_hand_scar.png
+      - Distortion.mat
+      - Echopark.hdr
+      - Image 1.mat
+      - Image 2.mat
+      - MaterialParams.png
+      - Normal.png
+      - PBR 1.mat
+      - PBR.mat
+      - PE_Wave_Vector.png
+      - Pro Outline/.hidden
+      - Pro Outline/.hidden/FinalPassEffects.ss_graph
+      - Pro Outline/.hidden/FinalPassSimple.ss_graph
+      - Pro Outline/.hidden/JFA step uv.ss_graph
+      - Pro Outline/.hidden/Outline 2.ss_graph
+      - Pro Outline/ImageMaterial.mat
+      - Pro Outline/Pro Outline Resoureces
+      - Pro Outline/Pro Outline Resoureces/Body Segmentation.segmentationTexture
+      - Pro Outline/Pro Outline Resoureces/Materials
+      - Pro Outline/Pro Outline Resoureces/Materials/FinalPassEffects.mat
+      - Pro Outline/Pro Outline Resoureces/Materials/FinalPassSimple 2.mat
+      - Pro Outline/Pro Outline Resoureces/Materials/FinalPassSimple.mat
+      - Pro Outline/Pro Outline Resoureces/Materials/JFA step uv.mat
+      - Pro Outline/Pro Outline Resoureces/Materials/Outline 2.mat
+      - Pro Outline/Pro Outline Resoureces/Scripts
+      - Pro Outline/Pro Outline Resoureces/Scripts/JFA.js
+      - Pro Outline/Pro_Outline___PUT_IN_ORTHO_CAM.prefab
+      - Pro Outline/imgbin_scars-png.png
+      - ScreenTexture.screenTexture
+      - SpectaclesInteractionKit/Assets
+      - SpectaclesInteractionKit/Assets/Audio
+      - SpectaclesInteractionKit/Assets/Materials
+      - SpectaclesInteractionKit/Assets/Meshes
+      - SpectaclesInteractionKit/Assets/Shaders
+      - SpectaclesInteractionKit/Assets/Textures
+      - SpectaclesInteractionKit/Components
+      - SpectaclesInteractionKit/Core
+      - SpectaclesInteractionKit/Declarations
+      - SpectaclesInteractionKit/Decorators
+      - SpectaclesInteractionKit/Providers
+      - SpectaclesInteractionKit/Utils
+      - SpectaclesInteractionKit/package.native
+      - Sphere.mesh
+      - burnt skin.png
+      - coordinate.js
+      - distortion.ss_graph
+      - flip.js
+      - henna.png
+      - image_unlit 1.ss_graph
+      - image_unlit.ss_graph
+      - pbr 1.ss_graph
+      - pbr.ss_graph
+      - right_hand_scar.png
+      - spider-and-web-tattoo-2612.png
+      - unlit.ss_graph
+      - —Pngtree—mandala henna design transparent background_5883092.png
+  options: 4

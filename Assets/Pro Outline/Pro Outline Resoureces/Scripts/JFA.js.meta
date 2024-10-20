@@ -1,0 +1,48 @@
+- !<AssetImportMetadata/d6b47a28-c8c4-4157-9300-2758e4950b0f>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 333c8a7d-b582-4a3a-8cf3-d3f20d4052e7
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 333c8a7d-b582-4a3a-8cf3-d3f20d4052e7
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> a220da97-bc40-41b2-8136-d870a37f097e
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/b315edb8-4fe8-4b75-a962-de0280d772ee>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/a220da97-bc40-41b2-8136-d870a37f097e>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    JFAStep: false
+    advanced: false
+    customRes: false
+    firstPass: false
+    isFullScreen: false
+    mask: false
+    outlineThickness: false
+    startingRenderOrder: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - outlineThickness: 0
+      mask: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+      advanced: false
+      isFullScreen: false
+      customRes: !<Vec2> {x: 256.000000, y: 512.000000}
+      firstPass: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      JFAStep: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      startingRenderOrder: 0
+  ScriptTypes:
+    -
+      {}

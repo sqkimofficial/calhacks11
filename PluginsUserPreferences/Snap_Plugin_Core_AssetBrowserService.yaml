@@ -1,0 +1,12 @@
+ExternalSources:
+  type: "std::map<class Es::Uuid,class Es::Path,struct std::less<class Es::Uuid>,class std::allocator<struct std::pair<class Es::Uuid const ,class Es::Path> > >"
+  value:
+    - 0d7014d3-9d47-4ace-89a9-0fc0f1dc1dab: "C:/Users/김선규/OneDrive - 홍익대학교/Desktop/right_hand_scar.png"
+    - 2a6149c7-df66-49f8-953d-6504b2f487da: "C:/Users/김선규/OneDrive - 홍익대학교/Desktop/spider-and-web-tattoo-2612.png"
+    - 909906ad-0459-480b-bc6a-1a43160f807f: "C:/Users/김선규/Downloads/—Pngtree—mandala henna design transparent background_5883092.png"
+    - 974b827c-d7ef-494d-880b-8e90a41e8bcb: "C:/Users/김선규/OneDrive - 홍익대학교/Desktop/right_hand_scar.png"
+    - a7993b78-c1c3-4b6c-953c-0d69f8b491b5: "C:/Users/김선규/OneDrive - 홍익대학교/Desktop/henna.png"
+    - b2b6effe-424d-4d8c-aa10-5f9599f531db: "C:/Users/김선규/OneDrive - 홍익대학교/Desktop/burnt skin.png"
+    - e3585367-7a1f-4779-abf5-df129a9d4572: "C:/Users/김선규/OneDrive - 홍익대학교/Desktop/imgbin_scars-png.png"
+    - ebf1aef4-4e7a-44f0-b487-f4d64fb96941: "C:/Users/김선규/OneDrive - 홍익대학교/Desktop/right_hand_scar.png"
+  options: 4

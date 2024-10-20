@@ -1,0 +1,542 @@
+- !<ObjectPrefab/6964b0e9-6959-41e2-991c-6660c71a55f1>
+  PackagePath: ""
+  objects:
+    - !<own> d344a6f1-2d3d-4c60-b880-c820cf5040b2
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/085dd562-4a58-43ad-92e9-054911ac594c>
+  PrefabRemaps:
+    []
+  Name: Bone.002_end_3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 1.356865, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/0a24420c-afe0-4cc8-baa3-0cc94b5c78e5>
+  PrefabRemaps:
+    []
+  Name: Bone.002_end_2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 1.787462, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/20729f95-6030-4e27-a7ce-22a57bad08ac>
+  PrefabRemaps:
+    []
+  Name: heart
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -95.718483, y: 0.000014, z: 93.812019}
+    rotation: {x: -90.000000, y: 42.858097, z: -0.000000}
+    scale: {x: 100.000031, y: 100.000031, z: 100.000038}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> efed3031-078e-42e5-b163-c4cfa3a9c3ef
+- !<SceneObject/2600862b-9316-4467-b43b-35441f5c8808>
+  PrefabRemaps:
+    []
+  Name: bracelet
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 30b7442e-2900-4f88-831b-0a5a52e28473
+- !<RenderMeshVisual/30b7442e-2900-4f88-831b-0a5a52e28473>
+  PrefabRemaps:
+    []
+  Name: component_5
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 9251330d-08bb-4f4c-b1b1-62e0643c8b6e
+  Mesh: !<reference> 08f81dc4-e6a0-4b0f-86d6-ce54faa249aa
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/3c644b4c-9c16-db3b-1b88-b6fd69702de8>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 9251330d-08bb-4f4c-b1b1-62e0643c8b6e
+  Mesh: !<reference> 6cc51649-650c-45c2-917a-8824a1a65e2e
+  Skin: !<reference> 65e283e9-55e6-4bf1-b452-8d8b8a3ccf39
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/3c644b4c-9c16-db3b-1b88-b6fd69702dec>
+  PrefabRemaps:
+    []
+  Name: component_4
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 7080683d-c7df-4b8f-8b12-1c1f833752b3
+  Mesh: !<reference> 54b792bf-d6b7-4f40-94d2-c08f9c74ecf8
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/3c644b4c-9c16-db3b-1b88-b6fd69702df0>
+  PrefabRemaps:
+    []
+  Name: component_6
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 7080683d-c7df-4b8f-8b12-1c1f833752b3
+  Mesh: !<reference> ac2c0b6d-85b7-4219-8b6d-9bc3ede65ea7
+  Skin: !<reference> 65e283e9-55e6-4bf1-b452-8d8b8a3ccf39
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/41f0312b-b412-45ea-bcbf-253ce05a9b02>
+  PrefabRemaps:
+    []
+  Name: Pearly Gold Bracelet
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 1.600000, y: -27.488493, z: -12.000000}
+    rotation: {x: 0.720000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.053941, y: 0.053941, z: 0.053941}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> f0012994-a578-458c-b8c5-e3b9281b90bc
+    - !<own> 20729f95-6030-4e27-a7ce-22a57bad08ac
+    - !<own> 8ebc4a24-7acf-4563-9080-c9ad26148921
+    - !<own> 2600862b-9316-4467-b43b-35441f5c8808
+    - !<own> a530a9c3-4327-42da-afd3-6d3e464388db
+    - !<own> 8ebde911-f21e-4151-a4ba-a59a6078bbca
+    - !<own> db9c61fa-9840-414d-aad3-6ae17720cc9b
+    - !<own> 548ce6d7-cbe7-41d8-a880-2fd714279d49
+  Components:
+    - !<own> 65e283e9-55e6-4bf1-b452-8d8b8a3ccf39
+- !<SceneObject/494e3001-7fe8-4c4f-8c0a-e5fcaf340600>
+  PrefabRemaps:
+    []
+  Name: Bone.001_3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 1.390260, z: 0.000000}
+    rotation: {x: -0.000000, y: 0.000016, z: -10.975635}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> ba0114dd-63d7-4e04-ac9a-ffe2d84502be
+  Components:
+    []
+- !<SceneObject/548ce6d7-cbe7-41d8-a880-2fd714279d49>
+  PrefabRemaps:
+    []
+  Name: bone
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 95.937599, y: -34.868881, z: 192.834686}
+    rotation: {x: 0.000000, y: 29.882280, z: -0.000000}
+    scale: {x: 20.923655, y: 20.923655, z: 20.923655}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> ef21b4d7-c7e5-4cf3-8483-eaa4011bdff1
+  Components:
+    []
+- !<SceneObject/56b6a7c4-a1d5-4acf-b12e-cee342806287>
+  PrefabRemaps:
+    []
+  Name: Bone.002_2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000001, y: 0.545449, z: 6.632762}
+    rotation: {x: 0.000000, y: 0.000000, z: -3.812540}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0a24420c-afe0-4cc8-baa3-0cc94b5c78e5
+  Components:
+    []
+- !<SceneObject/64f8defa-66d8-4cc5-b5df-9476ed80fe27>
+  PrefabRemaps:
+    []
+  Name: Bone.002_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 1.787462, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<Skin/65e283e9-55e6-4bf1-b452-8d8b8a3ccf39>
+  PrefabRemaps:
+    []
+  Name: component_8
+  Enabled: true
+  skinBones:
+    Armature.001: !<reference> 548ce6d7-cbe7-41d8-a880-2fd714279d49
+    Armature.002: !<reference> 8ebde911-f21e-4151-a4ba-a59a6078bbca
+    Armature.003: !<reference> db9c61fa-9840-414d-aad3-6ae17720cc9b
+    Bone: !<reference> 874964bb-a7fc-4722-b120-9f89a073e5e5
+    Bone.001: !<reference> cd367db2-5b2c-48db-b1b2-7eee6756f928
+    Bone.001_2: !<reference> a0f30009-1c9e-4768-8d12-235ec2669bee
+    Bone.001_3: !<reference> 494e3001-7fe8-4c4f-8c0a-e5fcaf340600
+    Bone.002: !<reference> e0453819-2d6f-4b42-8070-ace0e1593b76
+    Bone.002_2: !<reference> 56b6a7c4-a1d5-4acf-b12e-cee342806287
+    Bone.002_3: !<reference> ba0114dd-63d7-4e04-ac9a-ffe2d84502be
+    Bone.002_end: !<reference> 64f8defa-66d8-4cc5-b5df-9476ed80fe27
+    Bone.002_end_2: !<reference> 0a24420c-afe0-4cc8-baa3-0cc94b5c78e5
+    Bone.002_end_3: !<reference> 085dd562-4a58-43ad-92e9-054911ac594c
+    Bone_2: !<reference> 6c93c950-c036-4741-be87-8e935396c5cd
+    Bone_3: !<reference> ef21b4d7-c7e5-4cf3-8483-eaa4011bdff1
+    Pearly Gold Bracelet1: !<reference> 41f0312b-b412-45ea-bcbf-253ce05a9b02
+    Simple Heart.006: !<reference> 20729f95-6030-4e27-a7ce-22a57bad08ac
+    Sphere.024: !<reference> 8ebc4a24-7acf-4563-9080-c9ad26148921
+    Sphere.025: !<reference> 2600862b-9316-4467-b43b-35441f5c8808
+    Torus.019: !<reference> a530a9c3-4327-42da-afd3-6d3e464388db
+    Torus.020: !<reference> f0012994-a578-458c-b8c5-e3b9281b90bc
+- !<SceneObject/6c93c950-c036-4741-be87-8e935396c5cd>
+  PrefabRemaps:
+    []
+  Name: Bone_2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 90.000000, y: -0.295498, z: -0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> a0f30009-1c9e-4768-8d12-235ec2669bee
+  Components:
+    []
+- !<SceneObject/874964bb-a7fc-4722-b120-9f89a073e5e5>
+  PrefabRemaps:
+    []
+  Name: Bone
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 90.000000, y: -0.295498, z: -0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> cd367db2-5b2c-48db-b1b2-7eee6756f928
+  Components:
+    []
+- !<SceneObject/8ebc4a24-7acf-4563-9080-c9ad26148921>
+  PrefabRemaps:
+    []
+  Name: bracelet
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3c644b4c-9c16-db3b-1b88-b6fd69702dec
+- !<SceneObject/8ebde911-f21e-4151-a4ba-a59a6078bbca>
+  PrefabRemaps:
+    []
+  Name: bone
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 128.737640, y: 0.000000, z: -158.426834}
+    rotation: {x: 0.000000, y: -33.174049, z: 0.000000}
+    scale: {x: 39.457214, y: 39.457207, z: 39.457214}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 874964bb-a7fc-4722-b120-9f89a073e5e5
+  Components:
+    []
+- !<SceneObject/a0f30009-1c9e-4768-8d12-235ec2669bee>
+  PrefabRemaps:
+    []
+  Name: Bone.001_2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 0.803420, z: 0.000000}
+    rotation: {x: -0.000000, y: 0.000000, z: 7.045850}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 56b6a7c4-a1d5-4acf-b12e-cee342806287
+  Components:
+    []
+- !<SceneObject/a530a9c3-4327-42da-afd3-6d3e464388db>
+  PrefabRemaps:
+    []
+  Name: heart
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -52.707355, y: -35.386230, z: -76.535347}
+    rotation: {x: -90.000000, y: 63.056320, z: -0.000000}
+    scale: {x: 99.999977, y: 99.999977, z: 99.999985}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3c644b4c-9c16-db3b-1b88-b6fd69702df0
+- !<RenderMeshVisual/b72aa638-e9df-4702-a439-f695183110fe>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> cb7aeef6-5f5a-41ff-86b6-9c0ae5c585e9
+  Mesh: !<reference> b3a64ccb-afa5-4e1a-8123-4cfa88e95dc1
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/ba0114dd-63d7-4e04-ac9a-ffe2d84502be>
+  PrefabRemaps:
+    []
+  Name: Bone.002_3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 0.631765, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000015, z: -11.496629}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 085dd562-4a58-43ad-92e9-054911ac594c
+  Components:
+    []
+- !<SceneObject/cd367db2-5b2c-48db-b1b2-7eee6756f928>
+  PrefabRemaps:
+    []
+  Name: Bone.001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 0.803420, z: 0.000000}
+    rotation: {x: -0.000000, y: 0.000000, z: 7.045850}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> e0453819-2d6f-4b42-8070-ace0e1593b76
+  Components:
+    []
+- !<SceneObject/d344a6f1-2d3d-4c60-b880-c820cf5040b2>
+  PrefabRemaps:
+    []
+  Name: Bracelet Pack__USE_WITH_WRIST_TRACKING
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 5.325948, y: 0.000000, z: 0.000000}
+    rotation: {x: 90.000000, y: 90.000000, z: 0.000000}
+    scale: {x: 0.500000, y: 0.500000, z: 0.500000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> d5af5015-2356-4398-aa6e-03a62b163692
+    - !<own> 41f0312b-b412-45ea-bcbf-253ce05a9b02
+  Components:
+    []
+- !<SceneObject/d5af5015-2356-4398-aa6e-03a62b163692>
+  PrefabRemaps:
+    []
+  Name: leonel bracelet
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.900000, y: -38.893066, z: 0.900000}
+    rotation: {x: 10.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.043089, y: 0.043089, z: 0.043089}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> fb0e16b3-d9d6-47c9-824f-e5d43f36d0f8
+  Components:
+    []
+- !<SceneObject/db9c61fa-9840-414d-aad3-6ae17720cc9b>
+  PrefabRemaps:
+    []
+  Name: bone
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -82.619255, y: -34.868881, z: -135.221252}
+    rotation: {x: 0.000000, y: 29.882280, z: -0.000000}
+    scale: {x: 39.457214, y: 39.457207, z: 39.457214}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6c93c950-c036-4741-be87-8e935396c5cd
+  Components:
+    []
+- !<SceneObject/e0453819-2d6f-4b42-8070-ace0e1593b76>
+  PrefabRemaps:
+    []
+  Name: Bone.002
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 0.545449, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: -3.812540}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 64f8defa-66d8-4cc5-b5df-9476ed80fe27
+  Components:
+    []
+- !<SceneObject/ef21b4d7-c7e5-4cf3-8483-eaa4011bdff1>
+  PrefabRemaps:
+    []
+  Name: Bone_3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 90.000015, y: -7.077343, z: -0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 494e3001-7fe8-4c4f-8c0a-e5fcaf340600
+  Components:
+    []
+- !<RenderMeshVisual/efed3031-078e-42e5-b163-c4cfa3a9c3ef>
+  PrefabRemaps:
+    []
+  Name: component_2
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 7080683d-c7df-4b8f-8b12-1c1f833752b3
+  Mesh: !<reference> 23128ae1-4254-4b43-90c2-8f382d771619
+  Skin: !<reference> 65e283e9-55e6-4bf1-b452-8d8b8a3ccf39
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/f0012994-a578-458c-b8c5-e3b9281b90bc>
+  PrefabRemaps:
+    []
+  Name: heart
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 89.975441, y: -0.517353, z: -105.170357}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 99.999985, y: 99.999985, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3c644b4c-9c16-db3b-1b88-b6fd69702de8
+- !<RenderMeshVisual/f8c6f015-4661-41a2-a7e4-d079fd8a9e39>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e9702526-57fc-410b-ba5a-d475b1914390
+  Mesh: !<reference> 321ae526-5b74-480d-a6cf-ce36ce4e6f8a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/fb0e16b3-d9d6-47c9-824f-e5d43f36d0f8>
+  PrefabRemaps:
+    []
+  Name: 3D Bracelet Asset Pack
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f8c6f015-4661-41a2-a7e4-d079fd8a9e39
+    - !<own> b72aa638-e9df-4702-a439-f695183110fe

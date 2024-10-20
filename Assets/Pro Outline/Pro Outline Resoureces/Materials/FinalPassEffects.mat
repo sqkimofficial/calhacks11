@@ -1,0 +1,95 @@
+- !<Material/92aabbd4-c229-4ebe-88b1-d796ee1deb50>
+  PackagePath: ""
+  PassesInfo:
+    - !<own> 09ea3f87-54d3-425b-b4c4-e1d7b9e0aee9
+- !<PassInfo/09ea3f87-54d3-425b-b4c4-e1d7b9e0aee9>
+  DepthWrite: true
+  DepthTest: true
+  DepthFunction: LessEqual
+  TwoSided: false
+  ColorMask: {x: true, y: true, z: true, w: true}
+  CullMode: Back
+  PolygonOffset: {x: 0.000000, y: 0.000000}
+  FrustumCulling: Auto
+  FrustumCullPad: 0.000000
+  InstanceCount: 1
+  Defines:
+    - NODE_18_DROPLIST_ITEM 1
+  BlendMode: Add
+  Properties:
+    Port_Import_N020:
+      typeIdx: 1
+      value: 737.349976
+    Port_Import_N066:
+      typeIdx: 1
+      value: 1.000000
+    Port_Import_N067:
+      typeIdx: 1
+      value: 1.000000
+    Port_Import_N072:
+      typeIdx: 1
+      value: 0.100000
+    Port_Input0_N015:
+      typeIdx: 1
+      value: 0.600000
+    Port_Input0_N017:
+      typeIdx: 1
+      value: 0.000000
+    Port_Input0_N045:
+      typeIdx: 1
+      value: 0.000100
+    Port_Input1_N016:
+      typeIdx: 1
+      value: 0.700000
+    Port_Input1_N017:
+      typeIdx: 1
+      value: 0.008000
+    Port_Input1_N057:
+      typeIdx: 1
+      value: 0.000000
+    Port_Max1_N049:
+      typeIdx: 1
+      value: 1.000000
+    Port_Max1_N051:
+      typeIdx: 1
+      value: 1.000000
+    Port_Min1_N049:
+      typeIdx: 1
+      value: 0.000000
+    Port_Min1_N051:
+      typeIdx: 1
+      value: 0.000000
+    Port_Value1_N064:
+      typeIdx: 1
+      value: 5.000000
+    Port_Value2_N059:
+      typeIdx: 1
+      value: 1.000000
+    PreviewEnabled:
+      typeIdx: 0
+      value: 0
+    Tweak_N99:
+      typeIdx: 4
+      value: {x: 0.293126, y: 1.000000, z: 0.192874}
+    borderSize:
+      typeIdx: 0
+      value: 0
+    color1:
+      typeIdx: 4
+      value: {x: 0.977295, y: 0.000000, z: 0.999130}
+    inputMap:
+      typeIdx: 9
+      value:
+        id: ffffffff-ffff-ffff-ffff-ffffffffffff
+        sampler:
+          filteringMode: Trilinear
+          wrapModeU: Repeat
+          wrapModeV: Repeat
+          wrapModeW: Repeat
+          borderColor: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+          mipmaps: false
+        type: Texture2D
+    inputMapSize:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  Pass: !<reference> 2123f5ea-7bc1-4ad9-8652-d65a3d91c35d

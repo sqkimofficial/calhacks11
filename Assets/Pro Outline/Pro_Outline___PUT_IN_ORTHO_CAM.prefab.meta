@@ -1,0 +1,147 @@
+- !<AssetImportMetadata/9e202378-b9ab-4c9a-9094-bc71dd9ec62f>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> c2c2dc64-22f3-4655-99b7-1d684e434c2a
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> c2c2dc64-22f3-4655-99b7-1d684e434c2a
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    ObjectPrefab: !<own> 494a7e5f-28d2-410e-a10c-bbbf7b8e1e2f
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/48929d55-1403-4e3f-a6b5-0988f7204edc>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/12bef47d-9e99-469e-9d26-961ddf18440d>
+  PrefabRemaps:
+    []
+  Name: Pro_Outline___PUT_IN_ORTHO_CAM
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> b12efe90-ad71-4027-b33c-cd764e7f0b26
+    - !<own> a3c133b1-6072-44ba-b27b-9b46723ec9d3
+  Components:
+    []
+- !<ScriptComponent/317616c2-1fa4-4a0d-9bf9-ed0f2dab2663>
+  PrefabRemaps:
+    []
+  Name: JFA
+  Enabled: true
+  ScriptAsset: !<reference> 333c8a7d-b582-4a3a-8cf3-d3f20d4052e7
+  ScriptInputsDefault:
+    advanced: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      outlineThickness: 64
+      mask: !<reference.Texture> fd63acf3-d726-46f7-9f11-ea4715ad5ca0
+      advanced: false
+      isFullScreen: true
+      customRes: !<Vec2> {x: 128.000000, y: 256.000000}
+      firstPass: !<reference.Material> 5e360431-33a6-4988-b093-fa97d8372b15
+      JFAStep: !<reference.Material> 8cbb09e1-7b2a-4541-a228-4802e11d808b
+      startingRenderOrder: -50
+  ScriptTypes:
+    "":
+      {}
+- !<ObjectPrefabAssetData/494a7e5f-28d2-410e-a10c-bbbf7b8e1e2f>
+  SourceRemaps:
+    - 27ae5861-bc1d-434b-bed2-3134c7ea322f: 613ba79e-3a2d-4dd6-9f12-cb94fe810424
+    - 5ca52081-637a-45d7-beaa-cec501b2be14: cfc8ce58-3a7c-45c6-91a6-bf3bbd7da4ad
+    - 6b7461a5-3ec4-46ec-b54e-4c3383aa01a8: a3c133b1-6072-44ba-b27b-9b46723ec9d3
+    - 91207243-c94b-4909-9893-55557b5ab3a0: b62dd553-57dd-4b8c-b28b-187dfadc4173
+    - 9a4c451c-f279-4a46-a434-66a5b86d28e4: b12efe90-ad71-4027-b33c-cd764e7f0b26
+    - a408e662-3fbd-408b-b864-71a9c0f2ba13: 317616c2-1fa4-4a0d-9bf9-ed0f2dab2663
+    - e6135a3c-2d71-4509-885c-7fe68c3aad2b: 12bef47d-9e99-469e-9d26-961ddf18440d
+    - ee9ca070-1c47-4668-8cc3-dd9d77ca3543: 8c6ea39a-38db-48ac-89af-6b0b73735591
+  SourceState: !<own> b256a395-2ee0-477f-9894-08c07d63aa39
+- !<PostEffectVisual/613ba79e-3a2d-4dd6-9f12-cb94fe810424>
+  PrefabRemaps:
+    []
+  Name: Post Effect
+  Enabled: true
+  RenderOrder: 1
+  Material: !<reference> 051b6b41-9f25-405b-abaf-8470c2eabe35
+- !<PostEffectVisual/8c6ea39a-38db-48ac-89af-6b0b73735591>
+  PrefabRemaps:
+    []
+  Name: Post Effect
+  Enabled: true
+  RenderOrder: 0
+  Material: !<reference> 92aabbd4-c229-4ebe-88b1-d796ee1deb50
+- !<SceneObject/a3c133b1-6072-44ba-b27b-9b46723ec9d3>
+  PrefabRemaps:
+    []
+  Name: Pro Outline (Stroke)
+  Enabled: false
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: -40.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 317616c2-1fa4-4a0d-9bf9-ed0f2dab2663
+    - !<own> cfc8ce58-3a7c-45c6-91a6-bf3bbd7da4ad
+    - !<own> 613ba79e-3a2d-4dd6-9f12-cb94fe810424
+- !<SceneObject/b12efe90-ad71-4027-b33c-cd764e7f0b26>
+  PrefabRemaps:
+    []
+  Name: Pro Outline (Effects)
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: -40.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 8c6ea39a-38db-48ac-89af-6b0b73735591
+    - !<own> b62dd553-57dd-4b8c-b28b-187dfadc4173
+- !<ObjectPrefab/b256a395-2ee0-477f-9894-08c07d63aa39>
+  PackagePath: Pro_Outline___PUT_IN_ORTHO_CAM
+  objects:
+    - !<own> 12bef47d-9e99-469e-9d26-961ddf18440d
+  LazyLoading: false
+  RetainAssets: true
+- !<ScriptComponent/b62dd553-57dd-4b8c-b28b-187dfadc4173>
+  PrefabRemaps:
+    []
+  Name: JFA
+  Enabled: true
+  ScriptAsset: !<reference> 333c8a7d-b582-4a3a-8cf3-d3f20d4052e7
+  ScriptInputsDefault:
+    advanced: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      outlineThickness: 64
+      mask: !<reference.Texture> fd63acf3-d726-46f7-9f11-ea4715ad5ca0
+      advanced: false
+      isFullScreen: true
+      customRes: !<Vec2> {x: 128.000000, y: 256.000000}
+      firstPass: !<reference.Material> 5e360431-33a6-4988-b093-fa97d8372b15
+      JFAStep: !<reference.Material> 8cbb09e1-7b2a-4541-a228-4802e11d808b
+      startingRenderOrder: -50
+  ScriptTypes:
+    "":
+      {}
+- !<PostEffectVisual/cfc8ce58-3a7c-45c6-91a6-bf3bbd7da4ad>
+  PrefabRemaps:
+    []
+  Name: Post Effect
+  Enabled: true
+  RenderOrder: 1
+  Material: !<reference> e5d59103-f799-45c9-9936-17e996f61eb2
